@@ -29,7 +29,7 @@
             tools:ignore="ContentDescription" />
 
         <TextView
-            android:id="@+id/textView3"
+            android:id="@+id/optionTextView1"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_marginStart="30sp"
@@ -41,7 +41,7 @@
             tools:ignore="HardcodedText" />
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/optionButton1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="50dp"
@@ -52,7 +52,7 @@
             tools:ignore="HardcodedText" />
 
         <Button
-            android:id="@+id/button3"
+            android:id="@+id/buttonBackTitle"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginLeft="50dp"
